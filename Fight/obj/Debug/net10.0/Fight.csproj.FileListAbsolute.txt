@@ -1,0 +1,14 @@
+C:\Users\loke.nilsson\Documents\Prog1\Fight\Fight\bin\Debug\net10.0\Fight.exe
+C:\Users\loke.nilsson\Documents\Prog1\Fight\Fight\bin\Debug\net10.0\Fight.deps.json
+C:\Users\loke.nilsson\Documents\Prog1\Fight\Fight\bin\Debug\net10.0\Fight.runtimeconfig.json
+C:\Users\loke.nilsson\Documents\Prog1\Fight\Fight\bin\Debug\net10.0\Fight.dll
+C:\Users\loke.nilsson\Documents\Prog1\Fight\Fight\bin\Debug\net10.0\Fight.pdb
+C:\Users\loke.nilsson\Documents\Prog1\Fight\Fight\obj\Debug\net10.0\Fight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loke.nilsson\Documents\Prog1\Fight\Fight\obj\Debug\net10.0\Fight.AssemblyInfoInputs.cache
+C:\Users\loke.nilsson\Documents\Prog1\Fight\Fight\obj\Debug\net10.0\Fight.AssemblyInfo.cs
+C:\Users\loke.nilsson\Documents\Prog1\Fight\Fight\obj\Debug\net10.0\Fight.csproj.CoreCompileInputs.cache
+C:\Users\loke.nilsson\Documents\Prog1\Fight\Fight\obj\Debug\net10.0\Fight.dll
+C:\Users\loke.nilsson\Documents\Prog1\Fight\Fight\obj\Debug\net10.0\refint\Fight.dll
+C:\Users\loke.nilsson\Documents\Prog1\Fight\Fight\obj\Debug\net10.0\Fight.pdb
+C:\Users\loke.nilsson\Documents\Prog1\Fight\Fight\obj\Debug\net10.0\Fight.genruntimeconfig.cache
+C:\Users\loke.nilsson\Documents\Prog1\Fight\Fight\obj\Debug\net10.0\ref\Fight.dll
