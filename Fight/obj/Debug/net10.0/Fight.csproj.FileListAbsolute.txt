@@ -12,3 +12,4 @@ C:\Users\loke.nilsson\Documents\Prog1\Fight\Fight\obj\Debug\net10.0\refint\Fight
 C:\Users\loke.nilsson\Documents\Prog1\Fight\Fight\obj\Debug\net10.0\Fight.pdb
 C:\Users\loke.nilsson\Documents\Prog1\Fight\Fight\obj\Debug\net10.0\Fight.genruntimeconfig.cache
 C:\Users\loke.nilsson\Documents\Prog1\Fight\Fight\obj\Debug\net10.0\ref\Fight.dll
+C:\Users\loke.nilsson\Documents\Prog1\Fight\Fight\obj\Debug\net10.0\Fight.sourcelink.json
